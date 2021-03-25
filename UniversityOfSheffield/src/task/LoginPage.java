@@ -17,6 +17,8 @@ public class LoginPage {
 	public static void main(String[] args) throws Exception 
 	{
 		
+		// ScreenRecorder Started
+		SpecializedScreenRecorder.startRecording();
 		// Created the Login Page Object
 		LoginPage page = new LoginPage();
 		String fileWithPath = "D:\\Mansi\\UniversityOfSheffield\\Screenshots\\";
@@ -40,6 +42,7 @@ public class LoginPage {
 		String SS = page.takeSnapShot(driver, fileWithPath);
 		Thread.sleep(200);
 		driver.close();
+		SpecializedScreenRecorder.stopRecording();
 		
 	}
 

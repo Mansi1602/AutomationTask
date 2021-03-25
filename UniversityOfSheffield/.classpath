@@ -21,5 +21,6 @@
 	<classpathentry kind="lib" path="D:/Mansi/UniversityOfSheffield/commons-io-2.8.0/commons-io-2.8.0-sources.jar"/>
 	<classpathentry kind="lib" path="D:/Mansi/UniversityOfSheffield/commons-io-2.8.0/commons-io-2.8.0-tests.jar"/>
 	<classpathentry kind="lib" path="D:/Mansi/UniversityOfSheffield/commons-io-2.8.0/commons-io-2.8.0-test-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Mansi/UniversityOfSheffield/monte-screen-recorder-0.7.7.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
